@@ -1,0 +1,18 @@
+.testimonial {
+  box-shadow: 0 2rem 4rem 0 rgba(#000000, 0.2);
+  border-radius: 0.8rem;
+  padding: 2.4rem;
+
+  &-daniel {
+    grid-column: 1 / span 2;
+  }
+
+  &-kira {
+    grid-column: 4 / 5;
+    grid-row: 1 / span 2;
+  }
+
+  &-patrick {
+    grid-column: 2 / span 2;
+  }
+}

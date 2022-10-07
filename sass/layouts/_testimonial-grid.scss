@@ -4,5 +4,13 @@
 
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 2.4rem;
+  gap: 3rem;
+
+  @include respond(phone) {
+    width: 84%;
+    margin: 2.8rem auto;
+    gap: 2.8rem;
+
+    grid-template-columns: 1fr;
+  }
 }

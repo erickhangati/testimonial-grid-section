@@ -11,6 +11,6 @@ This is a challenge from Frontend Mentor. We were supposed to build a testimonia
 1. HTML
 2. CSS (Grid, Flexbox, SASS)
 
-## Live link to the QR code component
+## Live link to the Testimonials Grid Section
 
 [https://eric-testimonial-grid-section.netlify.app/](https://eric-testimonial-grid-section.netlify.app/ "Frontend Mentor Challenge - Testimonial Grid Section")
